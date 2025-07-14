@@ -20,7 +20,7 @@ function About() {
             </p>
         </div>
         <div className="bio-image">
-            <img src="/src/assets/profile.jpg" alt="Ankita Gupta" />
+            <img src={profilePic} alt="Ankita Gupta" />
         </div>
         </div>
 

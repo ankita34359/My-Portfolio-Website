@@ -223,7 +223,7 @@
 }
 
 .achievement-list li::before {
-  content: '✔️';
+  content: ' ';
   position: absolute;
   left: 0;
   color: #00bcd4;
